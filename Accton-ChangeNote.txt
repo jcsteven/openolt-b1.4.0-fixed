@@ -1,3 +1,5 @@
 Change Informaiton:
+b1 2018-0727
+1. VOL-1105:Fix googleapis make error.
 b0 2018-0726
 1. Based on "git clone https://github.com/opencord/voltha/tree/master/voltha/adapters/openolt -b voltha-1.4.0" at 2018-0725
